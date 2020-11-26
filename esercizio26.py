@@ -1,5 +1,4 @@
-
-
+#MEDIA STIPENDI
 contatore = 0
 
 print("inserire -1  per  termina ")

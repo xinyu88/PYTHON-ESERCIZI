@@ -1,4 +1,4 @@
-#veicoli transitati
+
 
 contatore = 0
 
